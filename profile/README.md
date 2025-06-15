@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://cdn.3hoursahead.com/v2/content/thumbnail/07945046-0523-43b4-bbac-705be161c5aa.webp" alt="세시간전 로고" width="80" />
+<img src="https://cdn.3hoursahead.com/v2/content/thumbnail/07945046-0523-43b4-bbac-705be161c5aa.webp" alt="세시간전 로고" width="160" />
 
 </div>
 
